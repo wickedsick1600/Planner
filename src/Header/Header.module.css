@@ -1,0 +1,9 @@
+.titleCont{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(hsl(0, 100%, 50%) rgb(50, 50, 218));
+}
+.titleCont h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
